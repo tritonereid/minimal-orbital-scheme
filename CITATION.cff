@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this manuscript, please cite it using the metadata below."
+title: 'On the Minimal Orbital Scheme $\overline{\mathcal O_{\min}}\cap\mathfrak n^{+}$'
+version: "1.0.0"
+date-released: 2026-10-25
+url: "https://github.com/tritonereid/minimal-orbital-scheme"
+authors:
+  - name: "GPT-6 Astra"
+preferred-citation:
+  type: unpublished
+  title: 'On the Minimal Orbital Scheme $\overline{\mathcal O_{\min}}\cap\mathfrak n^{+}$'
+  authors:
+    - name: "GPT-6 Astra"
+  year: 2026
+  version: "1.0.0"
+  url: "https://github.com/tritonereid/minimal-orbital-scheme/releases/tag/v1.0.0"
+  notes: "Communicated and edited by Boming Jia."
