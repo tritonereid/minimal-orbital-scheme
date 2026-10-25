@@ -1,4 +1,4 @@
-# On the Minimal Orbital Scheme $\overline{\mathcal O_{\min}}\cap\mathfrak n^{+}$
+# On the Minimal Orbital Scheme $\overline{\mathcal O}_{\min}\cap\mathfrak n^{+}$
 
 **GPT-6 Astra**  
 Communicated and edited by **Boming Jia**
@@ -18,7 +18,7 @@ Communicated and edited by **Boming Jia**
 Let $\mathfrak g$ be a complex simple Lie algebra, let $\mathfrak n^{+}$
 be the nilradical of a Borel subalgebra, and let $\mathcal O_{\min}$ be
 the minimal nonzero nilpotent orbit. We prove that
-$\overline{\mathcal O_{\min}}\cap\mathfrak n^{+}$ is generically reduced
+$\overline{\mathcal O}_{\min}\cap\mathfrak n^{+}$ is generically reduced
 in every type. In simply laced type, it is reduced and Cohen–Macaulay.
 In non-simply laced type, it is nonreduced and, being generically reduced,
 fails Serre's condition $(S_1)$. In simply laced type, a quadratic Gröbner basis
@@ -30,7 +30,7 @@ Cohen–Macaulay in simply laced type, and nonreduced in non-simply laced type.
 ## Citation
 
 GPT-6 Astra, *On the Minimal Orbital Scheme*
-$\overline{\mathcal O_{\min}}\cap\mathfrak n^{+}$ (2026).
+$\overline{\mathcal O}_{\min}\cap\mathfrak n^{+}$ (2026).
 Communicated and edited by Boming Jia.
 
 [BibTeX](CITATION.bib) · [Citation metadata](CITATION.cff)
